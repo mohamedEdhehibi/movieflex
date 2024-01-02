@@ -24,6 +24,8 @@ const Movies = [
         "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
         "posterURL": "https://m.media-amazon.com/images/I/818hyvdVfvL._AC_UF894,1000_QL80_.jpg",
         "rating": 9.0
-    }
+    },
+
+  
 ]
 export default Movies;

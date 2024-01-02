@@ -2,8 +2,6 @@ import React from 'react';
 import Movie from './Movie';
 
 const MovieList = ({filter}) => {
-    console.log(filter);
-   
     return (
         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}>
             {filter.map((movie) => (
